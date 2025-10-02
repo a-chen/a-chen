@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-chen" alt="a-chen" /> </p>
 
-- 🌱 I’m currently learning **the MEAN stack**
-
 - 📫 How to reach me **achen.this@gmail.com**
 
 <p align="left">
