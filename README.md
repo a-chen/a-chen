@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-chen" alt="a-chen" /> </p>
 
 - 📫 How to reach me **achen.this@gmail.com**
+- ☕ [Buy me a coffee](https://buymeacoffee.com/andrew.chen)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/thisandrewchen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/thisandrewchen/" height="30" width="30" /></a>
